@@ -16,10 +16,7 @@ social: true # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I hold a Master's degree in Electrical and Computer Engineering from Georgia Tech, specializing in Machine Learning. My academic excellence is matched by a passion for innovative projects. <br>
-
-My primary area of research centers around the confluence of various domains, including Machine Learning, Deep Learning, Multi-modal Data, Recommendation systems, Natural Language Processing, and Large Language Modeling. Additionally, I have recently been deeply involved in projects related to Delta compression for continuous updates of large language models on edge devices. <br>
-
+I hold a Master's degree in Electrical and Computer Engineering from Georgia Tech, specializing in Machine Learning. My academic excellence is matched by a passion for innovative projects. Currently, I am focused on developing advanced quantization techniques for continual learning in Large Language Models on edge devices. <br>
 
 During my internship at Norfolk Southern in the summer of 2023, I tackled real-world challenges by developing a peak signal detection algorithm for railroad hot boxes with 98% accuracy and creating a statistical framework for short-term bearing temperature forecasting. <br>
 
@@ -43,7 +40,7 @@ I intend to use this website to give the world a peek into my mind and share upd
 <br>
 
 <h4>Research Interests</h4>
- I am broadly interested in the intersection of Multimodal and multi-task learning, contrastive learning and self-supervised learning. More specifically, my research interests include [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Vision Language Models](https://huggingface.co/blog/vision_language_pretraining), and [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). 
+My primary area of research centers around the confluence of various domains, including Machine Learning, Deep Learning, Multi-modal Data, Recommendation systems, Natural Language Processing, and Large Language Modeling. Additionally, I have recently been deeply involved in projects related to Delta compression for continuous updates of large language models on edge devices.
 <br><br>
 
 <h4>Experience</h4>
