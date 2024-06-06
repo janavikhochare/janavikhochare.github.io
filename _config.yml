@@ -2,19 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Prasanth Bathala # the website title (if blank, full name will be used instead)
-first_name: Prasanth
+title: Janavi Khochare # the website title (if blank, full name will be used instead)
+first_name: Janavi
 middle_name:
-last_name: Bathala
-email: pbathala3@gatech.edu
+last_name: Khochare
+email: janavikhochare99@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello There! I am Prasanth Bathala and I am a graduate student at Georgia Tech.
-  I intend to use this website to give the world a peek into my mind and to share updates about my work.
+  Welcome to my corner of the internet! I'm Janavi Khochare, a tech enthusiast fascinated by the ever-evolving world of AI. 
+  Let's explore AI together!
+  
 footer_text: >
   Powered by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 # icon: 🔥 # the emoji used as the favicon
-url: https://prasbathala.github.io # the base hostname & protocol for your site
+url: https://janavikhochare.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -48,11 +49,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: prasbathala
+github_username: janavikhochare
 stackoverflow_username: 
 gitlab_username: # your GitLab user name
-twitter_username: prasbathala
-linkedin_username: prasanthbathala
+twitter_username: #
+linkedin_username: janavikhochare
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
