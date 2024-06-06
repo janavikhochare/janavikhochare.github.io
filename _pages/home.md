@@ -16,7 +16,10 @@ social: true # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I hold a Master's degree in Electrical and Computer Engineering from Georgia Tech, specializing in Machine Learning. My academic excellence is matched by a passion for innovative projects. Currently, I am focused on developing advanced quantization techniques for continual learning in Large Language Models on edge devices. <br>
+I hold a Master's degree in Electrical and Computer Engineering from Georgia Tech, specializing in Machine Learning. My academic excellence is matched by a passion for innovative projects. <br>
+
+My primary area of research centers around the confluence of various domains, including Machine Learning, Deep Learning, Multi-modal Data, Recommendation systems, Natural Language Processing, and Large Language Modeling. Additionally, I have recently been deeply involved in projects related to Delta compression for continuous updates of large language models on edge devices. <br>
+
 
 During my internship at Norfolk Southern in the summer of 2023, I tackled real-world challenges by developing a peak signal detection algorithm for railroad hot boxes with 98% accuracy and creating a statistical framework for short-term bearing temperature forecasting. <br>
 
