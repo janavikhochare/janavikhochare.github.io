@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Prasanth Bathala
+title: Janavi Khochare
 permalink: /
 description:
 
@@ -16,13 +16,18 @@ social: true # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am a graduate student at [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) where I am pursuing a Master's in Electrical and Computer Engineering, specializing in Machine Learning and AI. I am currently involved in research at the [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Georgia Tech, where I work on biomedical information extraction using natural language processing (NLP) techniques under the guidance of [Prof. Cassie Mitchell](https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/). I am working on developing a new approach for [Entity Linking](https://en.wikipedia.org/wiki/Entity_linking) using [hierarchical contrastive learning](https://arxiv.org/abs/2204.13207) based on [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model).<br>
+I hold a Master's degree in Electrical and Computer Engineering from Georgia Tech, specializing in Machine Learning. My academic excellence is matched by a passion for innovative projects. Currently, I am focused on developing advanced quantization techniques for continual learning in Large Language Models on edge devices. <br>
 
-In Fall 2023, I interned as an Applied Scientist at [Amazon](https://www.amazon.science/). I worked on efficiently tailoring Large Language Models (LLMs) for text generation. <br>
+During my internship at Norfolk Southern in the summer of 2023, I tackled real-world challenges by developing a peak signal detection algorithm for railroad hot boxes with 98% accuracy and creating a statistical framework for short-term bearing temperature forecasting. <br>
 
-Prior to joining Georgia Tech, I worked with [Infosys Limited](https://www.infosys.com/) as a Software Engineer in Retail Consumer Logistics division, where I am responsible for automating the complete work flow of generating CRUD reports for migration of an application from Mainframe systems to SAP. I was also involved in Interface Enhancement team. I completed my undergraduate studies with Silver Medal at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/). <br>
+Previously, as a Data Scientist at Purplle.com in Mumbai, I enhanced user experiences through personalized recommendations using collaborative filtering and reinforcement learning. I led initiatives to solve cold start and product discovery issues, deploying real-time recommendation systems that significantly increased user engagement and sales. My solutions resulted in a 3% uplift in CTR and CTB, along with a 2.5% increase in orders. <br>
 
-I intend to use this website to give the world a peek into my mind and to share updates about my work.
+As an undergraduate researcher at Veermata Jijabai Technological Institute, I contributed to projects involving audio and video deepfake detection, anomaly detection, and wind speed forecasting, leading to publications in prestigious conferences and journals. <br>
+
+My technical skills include Python, C++, SQL, R, PyTorch, TensorFlow, Keras, Spark, Docker, and cloud infrastructures like GCP and AWS.<br>
+
+I intend to use this website to give the world a peek into my mind and share updates about my work.<br>
+
 <br><br>
 
 <h4>Updates</h4>
